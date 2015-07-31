@@ -1,0 +1,8 @@
+---
+title: "initial parsing"
+author: "Ian Lyttle"
+date: "July 31, 2015"
+output: html_document
+---
+
+This will eventually have the parsing code that will take the raw text file, then put stuff into the `data` directory. 
