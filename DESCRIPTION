@@ -1,0 +1,13 @@
+Package: wsd2015
+Type: Package
+Title: Entry for the UN World Statistics Day 2015 Data Vis contest
+Version: 0.0.0.9000
+Date: 2015-07-31
+Authors@R: as.person(c(
+    "Emily Berry <> [aut, cre]",
+    "Alex Shum <> [aut, cre]",
+    "Ian Lyttle <> [aut, cre]"
+  ))
+Description: Source code and data for an entry to this august competition
+License: GPL-3 + File LICENSE
+LazyData: TRUE
